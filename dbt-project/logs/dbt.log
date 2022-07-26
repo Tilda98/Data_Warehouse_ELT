@@ -6,3 +6,4 @@
 12:50:05.003962 [debug] [MainThread]: Tracking: tracking
 12:50:05.037958 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C740FD8F70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C740FA3970>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001C740FA3FA0>]}
 12:50:05.038958 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\hp\.dbt
+12:54:09.357295 [debug] [MainThread]: Starter project path: C:\Users\hp\Documents\GitHub\Data_Warehouse_ELT\dbt-project\dbt-env\lib\site-packages\dbt\include\starter_project
